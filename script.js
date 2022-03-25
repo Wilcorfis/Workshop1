@@ -16,7 +16,7 @@ function ShowCard(data, container) {
         container.innerHTML += `
              <img class='card' src="img/image1.png" id=${id} />
           `
-        document.getElementById(`${id}`).style.cssText += "width:300px"
+        document.getElementById(`${id}`).style.cssText += "width:300px" 
     });
 
 }
