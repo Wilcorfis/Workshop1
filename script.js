@@ -9,14 +9,14 @@ function shuffleArray(inputArray){
 
 function ShowCard(data, container) {
     shuffleArray(characters);
-    
+
     container.innerHTML = '';
     data.forEach(element => {
         const { id, img: imagen } = element;
         container.innerHTML += `
              <img class='card' src="img/image1.png" id=${id} />
           `
-        document.getElementById(`${id}`).style.cssText += "width:260px"
+        document.getElementById(`${id}`).style.cssText += "width:300px"
     });
 
 }
