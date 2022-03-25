@@ -1,3 +1,4 @@
 ##  BD Base de datos   
 
-![img]("https://img001.prntscr.com/file/img001/Lx48H1kER2GtaP8H9rzPig.png")
+![workshop drawio (2)](https://user-images.githubusercontent.com/12731644/160189343-0cb4407e-3f0e-44dc-8e29-f0472176d993.png)
+
